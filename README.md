@@ -1,4 +1,4 @@
 postman
 =======
 
-Publish/Monitor implementation of RabbitMQ using pika
+Publish/Monitor implementation with RabbitMQ using pika
